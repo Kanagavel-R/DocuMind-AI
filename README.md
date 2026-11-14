@@ -92,8 +92,10 @@ Architecture
           FRONTEND DISPLAY
 
 
-📁 Project Structure
 
+## 📁 Project Structure
+
+```text
 DocuMind-AI/
 │
 ├── index.html
