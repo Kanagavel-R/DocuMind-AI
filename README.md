@@ -93,21 +93,21 @@ Architecture
 
 📁 Project Structure
 
+📁 Project Structure
+
 DocuMind-AI/
 │
-├── frontend/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
+├── index.html
+├── style.css
+├── script.js
 │
 ├── backend/
 │   ├── main.py
-│   ├── .env
 │   └── .gitignore
 │
 └── README.md
 
-Note: The ".env" file is used locally and must not be uploaded to GitHub.
+Note: The ".env" file contains the Gemini API key. It is stored locally and excluded from GitHub using ".gitignore".
 
 ⚙️ Installation and Setup
 
