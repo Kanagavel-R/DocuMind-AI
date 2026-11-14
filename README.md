@@ -91,7 +91,6 @@ Architecture
                 v
           FRONTEND DISPLAY
 
-📁 Project Structure
 
 📁 Project Structure
 
